@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
-	<meta title="MouseAndTouchDrag" package="com.example.app" version="1.0.0" company="" />
+	<meta title="MouseAndTouchDrag" package="com.gomagames.MouseAndTouchDrag" version="1.0.0" company="Goma Games LLC" />
 
  	<app file="Main" main="Main" path="bin" />
 
